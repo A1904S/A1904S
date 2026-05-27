@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atul Sharma
 
-🎓 Final-year Information Technology student at Universal College of Engineering, Mumbai.
+🎓 Recently completed Information Technology student at Universal College of Engineering, Mumbai.
 
 💡 Passionate about Data Science, Machine Learning, AI, and Backend Development.
 
